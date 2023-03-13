@@ -2,7 +2,7 @@
        
        
 ### Skills
-- Front End | JavaScript (ES5, ES6), React
+- Front End | JavaScript (ES5, ES6), React, Next.js
 - Back End | Node.js, Express, MongoDB, MySQL, Firestore, Firebase, RESTful API Development
 - Testing | Mocha, Chai, K6
 - Developer Tools | Git, npm, Vim, Webpack, Babel, Agile Methodology, TDD   
