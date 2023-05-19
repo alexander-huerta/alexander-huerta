@@ -1,6 +1,7 @@
 <h1> <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> </picture> </h1>
-Talk to me about anything Tech or Real Estate!
-<br>
+
+#### Talk to me about anything Tech or Real Estate!
+
 
 - Software Consultant @ OCG 
 - Leasing Representative @ Rose Associates
