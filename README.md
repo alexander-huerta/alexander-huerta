@@ -24,5 +24,3 @@ Talk to me about anything Tech or Real Estate!
 <br> 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alexander-huerta&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt="alexander-huerta" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexander-huerta&" alt="alexander-huerta" /></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
