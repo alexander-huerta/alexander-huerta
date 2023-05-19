@@ -3,7 +3,7 @@
 #### Talk to me about anything Tech or Real Estate!
 
 
-- Software Consultant @ OCG 
+- Software Engineer (Consultant) @ OCG 
 - Leasing Representative @ Rose Associates
 
 <h2 align="left"> <b> Full Stack Skills</b> </h2>
