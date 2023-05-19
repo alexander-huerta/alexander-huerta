@@ -11,23 +11,8 @@ About me
 
 - Software Consultant @ OCG 
 - Leasing Representative @ Rose Associates
-
-<br>
 <br> 
-<h1 align="left">
-<b> Lets Connect </b>
-</h1>
-<br>     
-<a href="https://linkedin.com/in/alexanderhuerta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexanderhuerta/" height="30" width="60" /> </a>
 
-<br>
-
-- 📫 How to reach me **contact@alexanderhuerta.com**
-
-<br>
-<br> 
-<br>
-<br> 
 <h1 align="left">
 <b> Skills</b>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
@@ -58,6 +43,3 @@ About me
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexander-huerta&" alt="alexander-huerta" /></p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-huerta" alt="alexander-huerta" /></a> </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-huerta&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-huerta" /> </p>
