@@ -15,5 +15,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
 <br>
 <br> 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alexander-huerta&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt="alexander-huerta" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexander-huerta&" alt="alexander-huerta" /></p>
